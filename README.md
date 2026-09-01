@@ -119,3 +119,17 @@ For questions about this sample or setup issues, contact the project owner or ma
 ---
 
 _Generated README for the Pra_05 ASP.NET WebForms sample._
+
+## Screenshots
+
+Below are example application screenshots. Add the actual image files to `docs/screenshots/` with the filenames shown so they render on GitHub.
+
+- Default & Leave pages:
+
+  ![Default and Leave pages](docs/screenshots/default_and_leave.png)
+
+- Login page:
+
+  ![Login page](docs/screenshots/login.png)
+
+If you want me to add the images for you, upload the screenshot files here or allow me to fetch them from a URL and I'll commit them into `docs/screenshots/` and push.
