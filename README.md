@@ -109,11 +109,6 @@ Specify your preferred license here (e.g., MIT). If unsure, ask the project owne
 
 For questions about this sample or setup issues, contact the project owner or maintainer.
 
-##OUTPUT 
-
-<img width="503" height="417" alt="image" src="https://github.com/user-attachments/assets/53f63df2-8317-4359-a3fd-66fb178395ea" />
-<img width="1088" height="655" alt="image" src="https://github.com/user-attachments/assets/d80300f7-640a-4ed4-a1af-011c311b438e" />
-
 
 
 ---
@@ -126,10 +121,13 @@ Below are example application screenshots. Add the actual image files to `docs/s
 
 - Default & Leave pages:
 
-  ![Default and Leave pages](docs/screenshots/default_and_leave.png)
+<img width="1088" height="655" alt="image" src="https://github.com/user-attachments/assets/5d4feb91-f4e5-4571-b7a8-2b4bd8eae2da" />
+
+
 
 - Login page:
 
-  ![Login page](docs/screenshots/login.png)
+ <img width="322" height="267" alt="image" src="https://github.com/user-attachments/assets/bb749037-b31a-454c-839d-d88969cea6eb" />
+
 
 If you want me to add the images for you, upload the screenshot files here or allow me to fetch them from a URL and I'll commit them into `docs/screenshots/` and push.
